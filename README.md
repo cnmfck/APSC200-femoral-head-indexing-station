@@ -85,8 +85,5 @@ Open the `.ino` inside its matching folder and follow [setup and wiring](docs/se
 | [`UPLOAD_GUIDE.md`](UPLOAD_GUIDE.md) | Chinese GitHub upload instructions |
 | [`VALIDATION.md`](VALIDATION.md) | Packaging and verification record |
 
-## Preservation
-
-All 11 `.ino` files are included byte-for-byte. No motion settings or source logic were changed. The supplied photographs/plot and project documents informed the presentation; student-number pages and the full course/team PDFs are omitted from this public upload package.
 
 The files were inspected and packaged, but were not recompiled or tested on hardware during this preparation. Original hardware success is attributed to Shenghan's confirmation. No repository-wide open-source license is assigned to the mixed collection; source notices remain intact.

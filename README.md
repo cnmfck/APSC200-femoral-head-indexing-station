@@ -2,9 +2,9 @@
 
 **Encoder-based motion control for a belt-driven femoral-head indexing prototype.**
 
-APSC 200 · Queen's University · Winter 2026 · Team 02, Section 203
+APSC 200 · Queen's University · Winter 2026
 
-**Project control software: Shenghan Gao** · [Project portfolio](https://shenghan.cc/projects.html)
+**Project control software: Shenghan Gao (me)** · [Project portfolio](https://shenghan.cc/projects.html)
 
 ![Recycled-material indexing station prototype](docs/images/prototype-top.jpg)
 
